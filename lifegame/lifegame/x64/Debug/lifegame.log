@@ -1,0 +1,7 @@
+﻿  MainApp.cpp
+C:\Users\atsuy\work\algorithm\lifegame\lifegame\MainApp.cpp(22,8): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\atsuy\work\algorithm\lifegame\lifegame\MainApp.cpp(24,8): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\atsuy\work\algorithm\lifegame\lifegame\MainApp.cpp(76,8): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\atsuy\work\algorithm\lifegame\lifegame\MainApp.cpp(77,8): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\atsuy\work\algorithm\lifegame\lifegame\MainApp.cpp(112,22): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  lifegame.vcxproj -> C:\Users\atsuy\work\algorithm\lifegame\x64\Debug\lifegame.exe
