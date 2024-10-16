@@ -1,0 +1,5 @@
+﻿  MainApp.cpp
+C:\Users\atsuy\01_MainProject\algorithm\serarch_function\serarch_function\MainApp.cpp(46,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\atsuy\01_MainProject\algorithm\serarch_function\serarch_function\MainApp.cpp(55,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\atsuy\01_MainProject\algorithm\serarch_function\serarch_function\MainApp.cpp(69,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  serarch_function.vcxproj -> C:\Users\atsuy\01_MainProject\algorithm\serarch_function\x64\Debug\serarch_function.exe

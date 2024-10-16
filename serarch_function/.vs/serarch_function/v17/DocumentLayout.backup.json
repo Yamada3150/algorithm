@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atsuy\\01_MainProject\\algorithm\\serarch_function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA1F4C4F-3DC4-480E-B837-D1D490D02783}|serarch_function\\serarch_function.vcxproj|C:\\Users\\atsuy\\01_MainProject\\algorithm\\serarch_function\\serarch_function\\MainApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA1F4C4F-3DC4-480E-B837-D1D490D02783}|serarch_function\\serarch_function.vcxproj|solutionrelative:serarch_function\\MainApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainApp.cpp",
+              "DocumentMoniker": "C:\\Users\\atsuy\\01_MainProject\\algorithm\\serarch_function\\serarch_function\\MainApp.cpp",
+              "RelativeDocumentMoniker": "serarch_function\\MainApp.cpp",
+              "ToolTip": "C:\\Users\\atsuy\\01_MainProject\\algorithm\\serarch_function\\serarch_function\\MainApp.cpp",
+              "RelativeToolTip": "serarch_function\\MainApp.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAFgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T03:12:36.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
